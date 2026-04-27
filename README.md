@@ -14,21 +14,20 @@ I'm a 3rd-year Information Systems student at **West Visayas State University**,
 
 - 🎓 &nbsp;BS Information Systems · WVSU · Class of 2023
 - 📍 &nbsp;Iloilo City, Philippines
-- 🔭 &nbsp;Currently building: Excel → Power BI → SQL
-- 🌱 &nbsp;Working toward a business analyst role · OJT starting Jan 2027
+- 🌱 &nbsp;Working toward a business analyst role and in the future a managerial role
 
 ---
 
 ### Organizations
 
 **DagYoung Student Ambassadors**
-- Member · (2023-2024)
-- PIO & Head of Social Media and Creatives · (2024-2026)
+- Member · (2023–2024)
+- PIO & Head of Social Media and Creatives · (2024–2026)
 
 **CYB Robotics Organization**
-- Member · (2023-2024)
-- Secretary · 2024–2025
-- Assistant Treasurer · (2025-2026)
+- Member · (2023–2024)
+- Secretary · (2024–2025)
+- Assistant Treasurer · (2025–2026)
 
 ---
 
@@ -49,24 +48,24 @@ I'm a 3rd-year Information Systems student at **West Visayas State University**,
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
+**Other tools I've worked with**
 
-### Featured projects
-
-| Project | Description | Tools |
-|---|---|---|
-| **Crop Yield Prediction** | CRISP-DM regression on FAO data — 101 countries, 10 crops, R² = 0.647 | Python · Orange · Excel |
-| **Salary Regression Analysis** | OLS model on Kaggle salary dataset, tested all 5 OLS assumptions, detected gender pay gap | Jupyter · statsmodels · pandas |
-| **Breast Cancer Classifier** | Benchmarked 6 classifiers on breast-cancer.arff — J48 top performer at 75.52% accuracy | Weka |
-
----
+| | | | | | | | | | | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> |
 
 ### GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyle13&show_icons=true&theme=default&hide_border=true&title_color=333333&text_color=555555&icon_color=333333" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyle13&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=555555" height="150"/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyle13&show_icons=true&locale=en&layout=compact" alt="lyle13" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyle13&show_icons=true&locale=en" alt="lyle13" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyle13&" alt="lyle13" />
 </p>
 
 ---
@@ -74,8 +73,8 @@ I'm a 3rd-year Information Systems student at **West Visayas State University**,
 ### Connect
 
 <p>
-  <a href="https://linkedin.com/in/lyle13">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="mailto:lilbenedictherrera@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
