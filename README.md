@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a 3rd-year Information Systems student at **West Visayas State University**, majoring in **Business Analytics**. I enjoy turning raw data into meaningful insights — whether through regression models, classification algorithms, or clean visualizations.
+I'm a 3rd-year Information Systems student at **West Visayas State University**, majoring in **Business Analytics**. 
 
 - 🎓 &nbsp;BS Information Systems · WVSU · Class of 2027
 - 📍 &nbsp;Iloilo City, Philippines
